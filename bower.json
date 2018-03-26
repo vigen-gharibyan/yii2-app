@@ -1,0 +1,25 @@
+  {
+  "name": "yii2application",
+  "authors": [
+    "VigenGaribyan@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower-asset/angular": "*",
+    "bower-asset/angular-route": "*",
+    "bower-asset/angular-strap": "*",
+    "angular-upload": "^1.0.12",
+    "angular-material": "^1.1.3"
+  }
+}
